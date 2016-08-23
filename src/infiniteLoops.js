@@ -10,6 +10,8 @@ var loop = function(collection, callback){
 
 // 1. countVowels
 
+console.log("here is a change");
+
 // 2. stringReversal
 
 // 3. isPalindrome
